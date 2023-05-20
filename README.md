@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @STLxGdev
-- 👀 I’m interested in Raspberry PIs, Microcontrollers (especially Micropython on RP2040).
+- 👀 I’m interested in Raspberry PIs, Microcontrollers (especially the RP2040).
 
 
 <!---
